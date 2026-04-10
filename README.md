@@ -1,7 +1,7 @@
 # Maydan – TheaterThon 2 Hackathon
 
 ## Overview
-**Maydan** is a cloud-based platform bridging **Art and Management** in theaters and cultural centers.  
+**Maydan** is a cloud-based platform bridging **Art and Management** in theaters and cultural centers.   
 It transforms traditional manual processes into a smart, data-driven system, enabling theater managers to make informed decisions and improve audience experience.
 
 **Impact:**
