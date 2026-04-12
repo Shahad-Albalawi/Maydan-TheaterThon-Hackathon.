@@ -56,7 +56,7 @@ The Show Details page presents event information including description, cast, ve
 Displays confirmed ticket details, event info, seat selection, and countdown timer with options to download or share the ticket.
 
 <p align="center">
-  <img src="images/booking-confirmation.jpg" width="700"/>
+  <img src="images/booking.jpg" width="700"/>
 </p>
 
 ---
