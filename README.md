@@ -1,21 +1,21 @@
 # Maydan – TheaterThon 2 Hackathon
 
 ## Overview
-**Maydan** is a cloud-based platform bridging **Art and Management** in theaters and cultural centers.   
+**Maydan** is a cloud-based platform bridging **Art and Management** in theaters and cultural centers.  
 It transforms traditional manual processes into a smart, data-driven system, enabling theater managers to make informed decisions and improve audience experience.
 
 **Impact:**
-- Empowered theater professionals with **real-time insights**  
+- Empowered theater professionals with real-time insights  
 - Reduced operational inefficiencies  
-- Converted audience and financial data into **actionable strategies**
+- Converted audience and financial data into actionable strategies  
 
 ---
 
 ## Key Contributions & Solutions
-- Designed AI algorithms to **coordinate schedules, staff, and resources**, streamlining operations and improving workflow efficiency.  
-- Developed **interactive dashboards** delivering predictive insights, supporting better planning and minimizing the risk of show disruptions.  
-- Built **financial tracking tools** to monitor revenues and expenses, optimizing resource allocation.  
-- Analyzed **audience behavior** to guide marketing and ticketing strategies, increasing engagement and satisfaction.
+- Designed AI algorithms to coordinate schedules, staff, and resources, improving operational efficiency  
+- Developed interactive dashboards with predictive insights for better planning and decision-making  
+- Built financial tracking tools to monitor revenue and expenses  
+- Analyzed audience behavior to improve marketing and ticketing strategies  
 
 **Role:** Full-stack development & AI-powered analytics  
 
@@ -30,23 +30,39 @@ It transforms traditional manual processes into a smart, data-driven system, ena
 ## Screenshots
 
 ### Home Page
-The homepage allows users to explore events, view details, search by category, and book tickets easily.
-
 <p align="center">
   <img src="images/maidan-home.jpg" width="700"/>
 </p>
 
-### Executive Dashboard
-The dashboard provides theater executives with real-time operational, financial, and audience insights, along with AI-powered recommendations.
+---
 
+### Executive Dashboard
 <p align="center">
   <img src="images/maidan-dashboard.jpg" width="700"/>
 </p>
 
 ---
 
+### Show Details
+The Show Details page presents event information including description, cast, venue, pricing, and booking option in an interactive layout.
+
+<p align="center">
+  <img src="images/show-details.jpg" width="700"/>
+</p>
+
+---
+
+### Booking Confirmation
+Displays confirmed ticket details, event info, seat selection, and countdown timer with options to download or share the ticket.
+
+<p align="center">
+  <img src="images/booking-confirmation.jpg" width="700"/>
+</p>
+
+---
+
 ## How to Run
-1. Open `index.html` in a modern web browser (Chrome, Firefox, Edge)  
-2. To run backend or AI features (optional):
+1. Open `index.html` in a modern browser (Chrome, Firefox, Edge)  
+2. For backend/AI features:
 ```bash
 pip install -r requirements.txt
