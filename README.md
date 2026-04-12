@@ -29,22 +29,26 @@ It transforms traditional manual processes into a smart, data-driven system, ena
 
 ## Screenshots
 
-### Home Page
+### Home Page  
+The Home Page provides users with an easy way to explore theater events, browse available shows, and access detailed information about each performance through a clean and intuitive interface.
+
 <p align="center">
   <img src="images/maidan-home.jpg" width="700"/>
 </p>
 
 ---
 
-### Executive Dashboard
+### Executive Dashboard  
+The Executive Dashboard gives theater managers a comprehensive overview of operations, including financial performance, audience engagement, and key analytics to support informed decision-making and improve efficiency.
+
 <p align="center">
   <img src="images/maidan-dashboard.jpg" width="700"/>
 </p>
 
 ---
 
-### Show Details
-The Show Details page presents event information including description, cast, venue, pricing, and booking option in an interactive layout.
+### Show Details  
+The Show Details page presents detailed information about each performance, including description, cast, venue, and pricing, along with an interactive booking option.
 
 <p align="center">
   <img src="images/show-details.jpg" width="700"/>
@@ -52,8 +56,8 @@ The Show Details page presents event information including description, cast, ve
 
 ---
 
-### Booking Confirmation
-Displays confirmed ticket details, event info, seat selection, and countdown timer with options to download or share the ticket.
+### Booking Confirmation  
+The Booking Confirmation screen displays finalized ticket details, including event information, seat selection, and booking confirmation with options to download or share the ticket.
 
 <p align="center">
   <img src="images/booking.jpg" width="700"/>
@@ -63,6 +67,8 @@ Displays confirmed ticket details, event info, seat selection, and countdown tim
 
 ## How to Run
 1. Open `index.html` in a modern browser (Chrome, Firefox, Edge)  
-2. For backend/AI features:
+
+2. Install dependencies (if backend/AI features are used):
+
 ```bash
 pip install -r requirements.txt
